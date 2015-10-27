@@ -270,7 +270,7 @@ ofxMocapElement* ofxKinectFeatures::getElement(int _id){
         return &(*it);
     } else {
         //return false;
-        return NULL;
+        //return NULL;
     }
 }
 
